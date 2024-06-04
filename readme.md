@@ -1,4 +1,4 @@
-# One Piece VS Code Themes
+# CodeNime VS Code Themes
 
 Welcome to the CodeNime VS Code Themes project! This repository contains themes inspired by the Anime universe for Visual Studio Code.
 
