@@ -51,7 +51,7 @@ To add a new theme, follow these steps:
 5. **Run the scripts** to generate and validate your theme files.
 
 ## Project Structure
-
+```
 CodeNime/
 ├── .github/
 │ ├── ISSUE_TEMPLATE/
@@ -80,6 +80,7 @@ CodeNime/
 │ ├── dark.json
 │ └── light.json
 └── README.md
+```
 
 ## Documentation
 
