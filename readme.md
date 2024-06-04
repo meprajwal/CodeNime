@@ -69,12 +69,12 @@ CodeNime/
 │ ├── base/
 │ │ ├── dark.json
 │ │ └── light.json
-│ ├── black_foot_sanji/
+│ ├── theme_1/
 │ │ ├── images/
 │ │ ├── stickers/
 │ │ ├── dark.json
 │ │ └── light.json
-│ └── zoro/
+│ └── theme_2/
 │ ├── images/
 │ ├── stickers/
 │ ├── dark.json

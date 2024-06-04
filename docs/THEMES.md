@@ -3,7 +3,7 @@
 ## Folder Structure
 
 Each theme should have the following structure:
-
+```
 theme_name
 ├── images
 │ └── (optional images for the theme)
@@ -11,7 +11,7 @@ theme_name
 │ └── (optional stickers for the theme)
 ├── dark.json
 └── light.json
-
+```
 
 ## Adding a New Theme
 
