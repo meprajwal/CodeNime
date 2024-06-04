@@ -1,4 +1,4 @@
-# Creating and Customizing Themes
+`# Creating and Customizing Themes
 
 ## Folder Structure
 
