@@ -25,7 +25,7 @@ Thank you for considering contributing to this project! Please follow these guid
 
 ## Issues and Bugs
 
-- Report issues using the [issue tracker](link_to_issues).
+- Report issues using the [issue tracker](https://github.com/meprajwal/CodeNime/issues).
 - Provide as much detail as possible, including steps to reproduce the issue.
 
 ## Feature Requests
