@@ -1,0 +1,32 @@
+{
+    "name": "Base Light",
+    "type": "light",
+    "colors": {
+      "editor.background": "#FFFFFF",
+      "editor.foreground": "#000000",
+      "activityBar.background": "#E7E7E7",
+      "sideBar.background": "#F3F3F3"
+    },
+    "tokenColors": [
+      {
+        "scope": ["comment"],
+        "settings": {
+          "foreground": "#6A9955",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": ["keyword"],
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      }
+    ],
+    "backgrounds": {
+      "wallpaper": "images/wallpaper.jpg"
+    },
+    "icons": {
+      "activityBar": "images/icon.png"
+    }
+  }
+  

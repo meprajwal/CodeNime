@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Base Dark",
+    "type": "dark",
+    "colors": {
+      "editor.background": "#1E1E1E",
+      "editor.foreground": "#D4D4D4"
+    },
+    "tokenColors": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#6A9955"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Base Light",
+    "type": "light",
+    "colors": {
+      "editor.background": "#FFFFFF",
+      "editor.foreground": "#000000"
+    },
+    "tokenColors": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#008000"
+        }
+      }
+    ]
+  }
+]
