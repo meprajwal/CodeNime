@@ -24,8 +24,8 @@ To add a new theme, follow these steps:
 
 ## Documentation
 
-For detailed information on contributing and theme customization, please refer to the [Contributing Guide](docs/CONTRIBUTING.md) and [Themes Documentation](docs/THEMES.md).
+For detailed information on contributing and theme customization, please refer to the [Contributing Guide](CONTRIBUTING.md) and [Themes Documentation](THEMES.md).
 
 ## Contributing
 
-We welcome contributions! Please see the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more details.
+We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
