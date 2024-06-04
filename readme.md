@@ -1,15 +1,27 @@
-# VSCode Anime Themes
+# One Piece VS Code Themes
 
-Welcome to the VSCode Anime Themes project! This repository contains customizable themes inspired by various anime characters for Visual Studio Code.
+Welcome to the CodeNime VS Code Themes project! This repository contains themes inspired by the Anime universe for Visual Studio Code.
 
-## Features
+## Getting Started
 
-- Multiple themes with dark and light modes
-- High-quality wallpapers and stickers
-- Modular design for easy addition of new themes
+To use a theme, follow these steps:
+1. Clone the repository.
+2. Navigate to the `themes` folder.
+3. Select and apply your desired theme in VS Code.
 
-## Installation
+## Adding a New Theme
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/meprajwal/one-piece-theme.git
+To add a new theme, follow these steps:
+1. Create a new folder under the `themes` directory with your theme's name.
+2. Copy the structure from the `base` theme folder.
+3. Customize the `dark.json` and `light.json` files to your liking.
+4. Add any images or stickers in the respective subfolders.
+
+## Scripts
+
+- **add-theme.sh**: Use this script to add a new theme.
+- **generate-theme.js**: Use this script to generate the theme JSON files.
+
+## Contributing
+
+We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
