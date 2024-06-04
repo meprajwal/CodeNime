@@ -24,4 +24,4 @@ To add a new theme, follow these steps:
 
 ## Contributing
 
-We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
+We welcome contributions! Please see the [CONTRIBUTING.md](./docs/CONTRIBUTING.md) file for more details.
